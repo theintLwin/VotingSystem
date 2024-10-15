@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminDesign.master.cs" Inherits="VotingSystem.AdminDesign" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="AdminStyle.css" rel="stylesheet" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+    
+<body>
+    <form id="form1" runat="server">
+     <div class="wrap">
+           
+          <div class="nav">
+                
+       
+                    <a href="Home.aspx">Home</a> 
+                   <a href="VoterInfo.aspx">Voter Info</a>  
+                   <a href="Participant.aspx">Participants</a>  
+                    <a href="Result.aspx">Result</a>  
+                   <a href="LoginRegister.aspx">Logout</a> 
+               
+            </div>
+            <div class="content">
+                <h1></h1>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                
+                </asp:ContentPlaceHolder>
+            </div>
+           
+            <div class="clear"></div>
+            
+
+        </div>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

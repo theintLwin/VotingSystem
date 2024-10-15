@@ -1,0 +1,55 @@
+﻿body {
+   
+        margin: 0;
+        background-image: url(images/welc2.gif);
+        background-repeat: repeat;
+        background-size: 435px 182px;
+        background-attachment: fixed;
+
+}
+.wrap {
+    width:980px;
+    margin:0 auto;
+}
+
+.content {
+    width:850px;
+    height:1000px;
+    background-image:url(images/soft3.jpg);
+    float:right;
+    padding-right:50px;
+    margin-right:50px;
+    
+}
+.nav {
+    width:70px;
+    height:494px;
+    font-size:15px;
+    height:70px;
+   display:inline;
+   margin-left:30px;
+   margin-bottom:100px;    
+}
+
+
+.clear {
+    clear:both;
+}
+ a {
+    color:salmon;
+    background-color:lightcyan;
+    font-size:25px;
+    column-width:5px;
+}
+
+
+
+a {
+    text-decoration:none;
+    margin-left:20px;
+}
+ a:hover {
+    background-color:pink;
+    color:red;
+    padding:1%;
+}

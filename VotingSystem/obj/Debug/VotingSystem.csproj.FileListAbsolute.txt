@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\VotingSystem\VotingSystem\VotingSystem\bin\VotingSystem.dll.config
+C:\Users\USER\Desktop\VotingSystem\VotingSystem\VotingSystem\bin\VotingSystem.dll
+C:\Users\USER\Desktop\VotingSystem\VotingSystem\VotingSystem\bin\VotingSystem.pdb
+C:\Users\USER\Desktop\VotingSystem\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\VotingSystem\VotingSystem\VotingSystem\obj\Debug\VotingSystem.dll
+C:\Users\USER\Desktop\VotingSystem\VotingSystem\VotingSystem\obj\Debug\VotingSystem.pdb
